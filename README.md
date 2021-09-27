@@ -1,2 +1,3 @@
 # Kepository
-practice
+Practice makes perfect.
+Good good study,day day up.
